@@ -39,4 +39,4 @@ CampusFind is a web application for university students and staff to report lost
 
 ### 1. Download
 ```bash
-git clone https://github.com/dilshankumara001001/campusfind.git
+git clone https://github.com/dilshankumara001001/campusfind
