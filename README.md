@@ -33,10 +33,6 @@ CampusFind is a web application for university students and staff to report lost
 - Bootstrap 5
 - HTML5/CSS3/JavaScript
 
----
 
-## 📦 Installation
 
-### 1. Download
 
- https://github.com/dilshankumara001001/campusfind
