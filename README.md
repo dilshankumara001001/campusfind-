@@ -1,4 +1,4 @@
-     # 🎓 CampusFind - Lost & Found Campus System
+ # 🎓 CampusFind - Lost & Found Campus System
 
 [![PHP](https://img.shields.io/badge/PHP-7.4+-blue.svg)](https://php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-5.7+-orange.svg)](https://mysql.com)
